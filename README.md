@@ -12,7 +12,11 @@
 - As for my knowledge in programming, I have an expert knowledge of R and am beginning to learn SQL.
 
 🤔 I’m looking for a job in Granada/full remote job to work from Granada.
+
 💬 Ask me about my day! Just being noticed is wonderful to human beings. :)
+
 📫 How to reach me: Feel free to write me on my email.
+
 😄 Pronouns: Any is fine.
+
 ⚡ Fun fact: My favorite book is The Count of Monte Cristo.
