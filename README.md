@@ -6,7 +6,8 @@
 - Translating Chess Evolved Online, a Steam game (https://store.steampowered.com/app/1064340/Chess_Evolved_Online/) to Spanish.
 
 🌱 I'm working on solving Project Euler problems daily! My account is pRunus!
-[pRunus](https://github.com/user-attachments/assets/558fe9b3-a735-41c4-988a-732f49b56268)
+
+![pRunus (1)](https://github.com/user-attachments/assets/21bf392a-b2af-44ce-8768-79d85ddf6007)
 
 
 
