@@ -7,7 +7,7 @@
 
 🌱 I'm working on solving Project Euler problems daily! My account is pRunus!
 
-![pRunus (1)](https://github.com/user-attachments/assets/21bf392a-b2af-44ce-8768-79d85ddf6007)
+![pRunus](https://github.com/user-attachments/assets/e994cdf5-0189-4a56-816d-9de940bbce36)
 
 
 
