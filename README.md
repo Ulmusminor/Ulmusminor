@@ -6,7 +6,7 @@
 
 🌱 I'm working on solving Project Euler problems daily! My account is pRunus!
 
-![pRunus](https://github.com/user-attachments/assets/7d3ae46b-ece8-4243-a328-b0e876be3516)
+![pRunus](https://github.com/user-attachments/assets/3b48e52c-89aa-4a62-9e12-f2ecca8ac589)
 
 
 - I'm a graduate in Biology and a master in Biostatistics, with level C2 in English. I love nature and knowledge. I'm mostly self-taught.
