@@ -1,9 +1,5 @@
 ## Hello, my name is Marco, nice to meet you!
 
-🔭 I’m currently working on two low priority projects:
-- Developing a web for experiments with spider mites (which is being saved in Ulmusminor/smites).
-- Translating Chess Evolved Online, a Steam game (https://store.steampowered.com/app/1064340/Chess_Evolved_Online/) to Spanish.
-
 🌱 I'm working on solving Project Euler problems daily! My account is pRunus!
 
 ![pRunus](https://github.com/user-attachments/assets/a070dda8-355b-44bc-bd1e-747d99d808c5)
