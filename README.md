@@ -8,7 +8,7 @@
 - I'm a graduate in Biology and a master in Biostatistics, with level C2 in English. I love nature and knowledge. I'm mostly self-taught.
 - As for my knowledge in programming, I have an expert knowledge of R, user level knowledge of SQL (mySQL) and am beginning to learn C++.
 
-🤔 I’m looking for a job in Granada/full remote job to work from Granada.
+🤔 I’m looking for a job right now. I can work abroad or here in Spain.
 
 💬 Ask me about my day! Just being noticed is wonderful to human beings. :)
 
