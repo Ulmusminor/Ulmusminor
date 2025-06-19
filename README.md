@@ -2,7 +2,7 @@
 
 🌱 I'm working on solving Project Euler problems daily! My account is pRunus!
 
-![pRunus](https://github.com/user-attachments/assets/fffa146e-93fe-468e-82cb-077c64f274b4)
+![pRunus](https://github.com/user-attachments/assets/cdc3f149-dec9-4485-af27-676a3eaa9277)
 
 Also working in "survnet", my shot at creating a neural network for survival analysis and see if its predictive power increases in comparison with classic cox model analysis.
 
